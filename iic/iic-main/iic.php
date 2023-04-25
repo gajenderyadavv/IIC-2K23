@@ -1,3 +1,12 @@
+<?php
+$title = "Institutions Innovation Council/Startup Cell";
+$description = "Institutions Innovation Council/Startup Cell";
+$keywords = "uiet kuk, uiet kurukshetra, kuk uiet, kuk, University Institute of Engineering & Technology";
+$site_name = "uietkuk.ac.in";
+include 'include/header.php'; ?>
+
+
+
 <section id="servicesCarousel" class="services services-carousel pt-30 pb-30">
                 <div class="container">
                     <div class="row" style="height: 100%;">
@@ -441,3 +450,6 @@ Sonu yadav</h5>
                             </div>
                         </div>
                     </SECTION>
+
+
+                    <?php include "include/footer.php" ;?>
