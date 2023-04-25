@@ -1,14 +1,3 @@
-<?php
-$title = "Institutions Innovation Council/Startup Cell";
-$description = "Institutions Innovation Council/Startup Cell";
-$keywords = "uiet kuk, uiet kurukshetra, kuk uiet, kuk, University Institute of Engineering & Technology";
-$site_name = "uietkuk.ac.in";
-include 'include/header.php'; ?>
-
-
-
-
-
 <section id="servicesCarousel" class="services services-carousel pt-30 pb-30">
                 <div class="container">
                     <div class="row" style="height: 100%;">
@@ -18,8 +7,12 @@ include 'include/header.php'; ?>
                                 <h2 style="color:#654099">LATEST UPDATES</h2>
                                 <marquee direction="up" scrollamount="2" onMouseOver="this.stop()" onMouseOut="this.start()" height="250">
                                     <ul class="list-info--1">
-                                        <li><strong><a href="uietkuk.ac.in">KAVACH REGISTRATIONS till April 8th.</a></strong></li>
+                                        <li><strong><a href="./images/iic/notice/Website Notice.pdf">WEBSITE NOTICE INNOVATE-A-THON</a></strong></li>
                                     </ul>
+                                    <ul class="list-info--1">
+                                        <li><strong><a href="./images/iic/notice/INNOVATE-A-THON.pdf">INNOVATE-A-THON</a></strong></li>
+                                    </ul>
+                                
                                 </marquee>
                                 <div class="power-link">
                                     <!--<a href="admission-updates.php" class="btn-power "><span>Read More <i class="icon-arrow-right2"></i></span></a>-->
@@ -135,7 +128,7 @@ include 'include/header.php'; ?>
                     <div class="col-sm-6 col-md-6 col-lg-6">
                       <div class="service-item">
                         <div class="service__content">
-                          <div class="service__icon"><img src="images/iic/wjij.png" class="logo-loji"></div>
+                          <div class="service__icon"><img src="images/iic/others/wjij.png" class="logo-loji"></div>
                           <h4 class="service__title">Vision</h4>
                           <p class="service__desc">Empower UIET, Kurukshetra University, to be the leader to facilitate and catalyse the innovations, start-ups, entrepreneurial development and business growth to the students and faculties for the sustainable economic growth of the community. 
                             </p>
@@ -148,7 +141,7 @@ include 'include/header.php'; ?>
                     <div class="col-sm-6 col-md-6 col-lg-6">
                       <div class="service-item">
                         <div class="service__content">
-                          <div class="service__icon"><img src="images/iic/dfmoam.png" class="logo-loji"></div>
+                          <div class="service__icon"><img src="images/iic/others/dfmoam.png" class="logo-loji"></div>
                           <h4 class="service__title">Mission</h4>
                           <p class="service__desc">To develop a system with the required infrastructure that can enable the creative thinkers and faculties to innovate and prototype their ideas with the support from government, industry and reputed academic institutions around the world and help them to realize their potentials.
                           </p>
@@ -168,7 +161,7 @@ include 'include/header.php'; ?>
                     <div class="row">
                         <div class="col-sm-6 col-md-2 col-lg-2">
                             <div class="l-left">
-                                <img src="images/iic/coordinators/teacher-1.png" class="logo-loji" height="200px" width="200px" object-fit="cover">
+                                <img src="images/iic/coordinators/teacher-1.png" class="logo-loji" height="170px" width="200px" object-fit="cover">
                             </div>
                         </div>
                         <div class="col-sm-6 col-md-4 col-lg-4">
@@ -181,7 +174,7 @@ include 'include/header.php'; ?>
                         </div>
                         <div class="col-sm-6 col-md-2 col-lg-2">
                             <div class="l-left">
-                                <img src="images/iic/coordinators/teacher-12.png" class="logo-loji"  height="200px" width="200px" object-fit="cover">
+                                <img src="images/iic/coordinators/teacher-12.png" class="logo-loji"  height="170px" width="200px" object-fit="cover">
                             </div>
                         </div>
                         <div class="col-sm-6 col-md-4 col-lg-4">
@@ -201,7 +194,7 @@ include 'include/header.php'; ?>
                     <div class="row">
                         <div class="col-sm-6 col-md-2 col-lg-2">
                             <div class="l-left">
-                                <img src="images/iic/coordinators/teacher-7.png" class="logo-loji"  height="200px" width="200px" object-fit="cover">
+                                <img src="images/iic/coordinators/teacher-7.png" class="logo-loji"  height="170px" width="200px" object-fit="cover">
                             </div>
                         </div>
                         <div class="col-sm-6 col-md-4 col-lg-4">
@@ -215,7 +208,7 @@ include 'include/header.php'; ?>
                         </div>
                         <div class="col-sm-6 col-md-2 col-lg-2">
                             <div class="l-left">
-                                <img src="images/iic/coordinators/sk.jpeg" class="logo-loji"  height="200px" width="200px" object-fit="cover">
+                                <img src="images/iic/coordinators/sk.jpeg" class="logo-loji"  height="170px" width="200px" object-fit="cover">
                             </div>
                         </div>
                         <div class="col-sm-6 col-md-4 col-lg-4">
@@ -235,7 +228,41 @@ include 'include/header.php'; ?>
                     <div class="row">
                         <div class="col-sm-6 col-md-2 col-lg-2">
                             <div class="l-left">
-                                <img src="images/iic/coordinators/teacher-2.png" class="logo-loji"  height="200px" width="200px" object-fit="cover">
+                                <img src="images/iic/coordinators/nm.png" class="logo-loji"  height="170px" width="200px" object-fit="cover">
+                            </div>
+                        </div>
+                        <div class="col-sm-6 col-md-4 col-lg-4">
+                            <div class="l-left">
+                                <div class="prof kiji">
+                                    <h5 style="text-align:left">
+                                        Dr. Nikhil Marriwala</h5>
+                                    <p><strong>MSME Coordinator</strong></p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 col-md-2 col-lg-2">
+                            <div class="l-left">
+                                <img src="images/iic/coordinators/sa.jpg" class="logo-loji"  height="170px" width="200px" object-fit="cover">
+                            </div>
+                        </div>
+                        <div class="col-sm-6 col-md-4 col-lg-4">
+                            <div class="l-left">
+                                <div class="prof kiji">
+                                    <h5 style="text-align:left">Dr. Sanjeev Ahuja</h5>
+                                    <p><strong>Member IIC</strong><br>
+                                      
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        
+                    </div>
+                </div>
+                <br><br><div class="container">
+                    <div class="row">
+                        <div class="col-sm-6 col-md-2 col-lg-2">
+                            <div class="l-left">
+                                <img src="images/iic/coordinators/teacher-2.png" class="logo-loji"  height="170px" width="200px" object-fit="cover">
                             </div>
                         </div>
                         <div class="col-sm-6 col-md-4 col-lg-4">
@@ -248,7 +275,7 @@ include 'include/header.php'; ?>
                         </div>
                         <div class="col-sm-6 col-md-2 col-lg-2">
                             <div class="l-left">
-                                <img src="images/iic/coordinators/DM.png" class="logo-loji"  height="200px" width="200px" object-fit="cover">
+                                <img src="images/iic/coordinators/DM.png" class="logo-loji"  height="170px" width="200px" object-fit="cover">
                             </div>
                         </div>
                         <div class="col-sm-6 col-md-4 col-lg-4">
@@ -269,7 +296,7 @@ include 'include/header.php'; ?>
                     <div class="row">
                         <div class="col-sm-6 col-md-2 col-lg-2">
                             <div class="l-left">
-                                <img src="images/iic/coordinators/SS.png" class="logo-loji"  height="200px" width="200px" object-fit="cover">
+                                <img src="images/iic/coordinators/SS.png" class="logo-loji"  height="170px" width="200px" object-fit="cover">
                             </div>
                         </div>
                         <div class="col-sm-6 col-md-4 col-lg-4">
@@ -283,7 +310,7 @@ include 'include/header.php'; ?>
                         </div>
                         <div class="col-sm-6 col-md-2 col-lg-2">
                             <div class="l-left">
-                                <img src="images/iic/coordinators/SC.png" class="logo-loji"  height="200px" width="200px" object-fit="cover">
+                                <img src="images/iic/coordinators/SC.png" class="logo-loji"  height="170px" width="200px" object-fit="cover">
                             </div>
                         </div>
                         <div class="col-sm-6 col-md-4 col-lg-4">
@@ -303,7 +330,7 @@ include 'include/header.php'; ?>
                     <div class="row">
                     <div class="col-sm-6 col-md-2 col-lg-2">
                         <div class="l-left">
-                            <img src="images/iic/coordinators/as.jpg" class="logo-loji"  height="200px" width="200px" object-fit="cover">
+                            <img src="images/iic/coordinators/as.jpg" class="logo-loji"  height="170px" width="200px" object-fit="cover">
                         </div>
                     </div>
                     <div class="col-sm-6 col-md-4 col-lg-4">
@@ -329,7 +356,7 @@ include 'include/header.php'; ?>
                     <div class="row">
                         <div class="col-sm-6 col-md-2 col-lg-2">
                             <div class="l-left">
-                                <img src="images/iic/core team/himani.png" class="logo-loji"  height="200px" width="200px" object-fit="cover">
+                                <img src="images/iic/core team/himani.png" class="logo-loji"  height="170px" width="200px" object-fit="cover">
                             </div>
                         </div>
                         <div class="col-sm-6 col-md-4 col-lg-4">
@@ -342,7 +369,7 @@ include 'include/header.php'; ?>
                         </div>
                         <div class="col-sm-6 col-md-2 col-lg-2">
                             <div class="l-left">
-                                <img src="images/iic/core team/ayushraj.png" class="logo-loji"  height="200px" width="200px" object-fit="cover">
+                                <img src="images/iic/core team/ayushraj.png" class="logo-loji"  height="170px" width="200px" object-fit="cover">
                             </div>
                         </div>
                         <div class="col-sm-6 col-md-4 col-lg-4">
@@ -363,7 +390,7 @@ include 'include/header.php'; ?>
                     <div class="row">
                         <div class="col-sm-6 col-md-2 col-lg-2">
                             <div class="l-left">
-                                <img src="images/iic/core team/sonuyadav.png" class="logo-loji"  height="200px" width="200px" object-fit="cover">
+                                <img src="images/iic/core team/sonuyadav.png" class="logo-loji"  height="170px" width="200px" object-fit="cover">
                             </div>
                         </div>
                         <div class="col-sm-6 col-md-4 col-lg-4">
@@ -379,7 +406,7 @@ Sonu yadav</h5>
                         </div>
                         <div class="col-sm-6 col-md-2 col-lg-2">
                             <div class="l-left">
-                                <img src="images/iic/core team/archiegoel.png" class="logo-loji"  height="200px" width="200px" object-fit="cover">
+                                <img src="images/iic/core team/archiegoel.png" class="logo-loji"  height="170px" width="200px" object-fit="cover">
                             </div>
                         </div>
                         <div class="col-sm-6 col-md-4 col-lg-4">
@@ -401,7 +428,7 @@ Sonu yadav</h5>
                     <div class="row">
                         <div class="col-sm-6 col-md-2 col-lg-2">
                             <div class="l-left">
-                                <img src="images/iic/core team/umakshi.png" class="logo-loji"  height="200px" width="200px" object-fit="cover">
+                                <img src="images/iic/core team/umakshi.png" class="logo-loji"  height="170px" width="200px" object-fit="cover">
                             </div>
                         </div>
                         <div class="col-sm-6 col-md-4 col-lg-4">
@@ -414,8 +441,3 @@ Sonu yadav</h5>
                             </div>
                         </div>
                     </SECTION>
-
-
-    
-
-        <?php include "include/footer.php" ;?>
