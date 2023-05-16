@@ -6,7 +6,6 @@ $site_name = "uietkuk.ac.in";
 include 'include/header.php'; ?>
 
 
-
 <section id="servicesCarousel" class="services services-carousel pt-30 pb-30">
                 <div class="container">
                     <div class="row" style="height: 100%;">
@@ -28,8 +27,9 @@ include 'include/header.php'; ?>
                                 </div>
                             </div>
                         </div>
+
                         <div class="col-lg-4">
-                            <video src="https://firebasestorage.googleapis.com/v0/b/iic-2k23.appspot.com/o/CIC%20VIDEO.mp4?alt=media&token=503fec44-ab44-441e-9a0a-a43b34ca1011" height="400px" controls autoplay></video>
+                            <iframe width="800" height="400" src="https://www.youtube.com/embed/BQ_OjBFdQnw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
                         </div>
                     </div>
                 </div>
@@ -284,7 +284,7 @@ include 'include/header.php'; ?>
                         </div>
                         <div class="col-sm-6 col-md-2 col-lg-2">
                             <div class="l-left">
-                                <img src="images/iic/coordinators/DM.png" class="logo-loji"  height="170px" width="200px" object-fit="cover">
+                                <img src="images/iic/coordinators/DM.JPg" class="logo-loji"  height="170px" width="200px" object-fit="cover">
                             </div>
                         </div>
                         <div class="col-sm-6 col-md-4 col-lg-4">
@@ -450,6 +450,5 @@ Sonu yadav</h5>
                             </div>
                         </div>
                     </SECTION>
-
 
                     <?php include "include/footer.php" ;?>
