@@ -15,7 +15,13 @@ include 'include/header.php'; ?>
                                 <h2 style="color:#654099">LATEST UPDATES</h2>
                                 <marquee direction="up" scrollamount="2" onMouseOver="this.stop()" onMouseOut="this.start()" height="250">
                                     <ul class="list-info--1">
-                                        <li><strong><a href="./images/iic/notice/Website Notice.pdf">WEBSITE NOTICE INNOVATE-A-THON</a></strong></li>
+                                        <li><strong><ul><a href="https://forms.gle/tqgSPYtMwcupzebd8">Click here to register for SIH-2023</a></strong></li>
+                                    </ul>
+                                    <ul class="list-info--1">
+                                        <li><strong><a href="./images/iic/notice/SIH-2023.pdf">SIH-2023 Details</a></strong></li>
+                                    </ul>
+                                    <ul class="list-info--1">
+                                        <li><strong><a href="./images/iic/notice/Website Notice.pdf">Website Notice INNOVATE-A-THON</a></strong></li>
                                     </ul>
                                     <ul class="list-info--1">
                                         <li><strong><a href="./images/iic/notice/INNOVATE-A-THON.pdf">INNOVATE-A-THON</a></strong></li>
@@ -450,5 +456,6 @@ Sonu yadav</h5>
                             </div>
                         </div>
                     </SECTION>
+
 
                     <?php include "include/footer.php" ;?>
