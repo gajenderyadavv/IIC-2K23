@@ -6,8 +6,7 @@ $site_name = "uietkuk.ac.in";
 include 'include/header.php'; ?>
 
 
- <!-- Include the provided styles -->
-    <style>
+<style>
         .youtube-frameVideo {
             width: 800px;
             height: 400px;
@@ -157,24 +156,18 @@ include 'include/header.php'; ?>
                                 <marquee direction="up" scrollamount="2" onMouseOver="this.stop()"
                                     onMouseOut="this.start()" height="250">
                                     <ul class="list-info--1">
-                                        <li><strong>
-                                                <ul><a href="./images/iic/notice/PENTATHON  (800 x 1000 px).pdf">NCIIPC-PENTATHON Hackathon NOTICE</a>
-                                            </strong></li>
+                                        <li><strong><a href="https://docs.google.com/document/d/1CnIUoyR9efjNE1WcieSWaURnf9oOkcN3d1XcEZl1RWs/edit?usp=sharing">Internal SIH 2024 -Apply Here </a></strong></li>
                                     </ul>
                                     <ul class="list-info--1">
-                                        <li><strong><a href="./images/iic/notice/Hack the Future-3.pdf">Hack The Future Hackathon NOTICE</a></strong></li>
+                                        <li><strong><a href="./images/iic/docs/Call of Applications for HEI Student Participants and Startup V3.pdf/Call of Applications for HEI Student Participants and Startup V3.pdf">IDE Bootcamp Notification</a></strong></li>
                                     </ul>
-                                    <ul class="list-info--1">
-                                        <li><strong><a href="./images/iic/notice/Website Notice.pdf">Website Notice
-                                                    INNOVATE-A-THON</a></strong></li>
-                                    </ul>
-                                    <ul class="list-info--1">
-                                        <li><strong><a
-                                                    href="./images/iic/notice/INNOVATE-A-THON.pdf">INNOVATE-A-THON</a></strong>
-                                        </li>
-                                    </ul>
+                                   
+                                        
+                                   
 
-                                </marquee>
+                                    </marquee>
+                                    
+                       
                                 <div class="power-link">
                                     <!--<a href="admission-updates.php" class="btn-power "><span>Read More <i class="icon-arrow-right2"></i></span></a>-->
                                 </div>
@@ -207,7 +200,7 @@ include 'include/header.php'; ?>
 
                                 <div class="link-b new-changes-grid">
 
-                                    <a class="" href="https://ecelluietkuk.web.app/" target="_blank">Ecell-UIET</a>
+                                    <a class="" href="https://ecelluietkuk.vercel.app/" target="_blank">Ecell-UIET</a>
 
                                     <a class="" href="https://linktr.ee/ecelluiet/" target="_blank">Instagram</a>
 
@@ -396,28 +389,15 @@ include 'include/header.php'; ?>
                     <img src="images/iic/coordinators/teacher-1.png" class="card-img-top" alt="Teacher 1">
                     <div class="card-body">
                         <h5 class="card-title">Dr. Vishal Ahlawat</h5>
-                        <p class="card-text">IIC President &amp Coordinator, CIC</p>
+                        <p class="card-text">IIC President &amp Convener, CIC</p>
                     </div>
                 </div>
-                <div class="card">
-                    <img src="images/iic/coordinators/teacher-12.png" class="card-img-top" alt="Teacher 12">
-                    <div class="card-body">
-                        <h5 class="card-title">Dr. Kulvinder Singh</h5>
-                        <p class="card-text">Nodal Officer, CIC</p>
-                    </div>
-                </div>
-                <div class="card">
-                    <img src="images/iic/coordinators/teacher-7.png" class="card-img-top" alt="Teacher 7">
-                    <div class="card-body">
-                        <h5 class="card-title">Dr. Sunil Nain</h5>
-                        <p class="card-text">Vice President, IIC</p>
-                    </div>
-                </div>
+              
                 <div class="card">
                     <img src="images/iic/coordinators/sk.jpeg" class="card-img-top" alt="Teacher 8">
                     <div class="card-body">
                         <h5 class="card-title">Dr. Sanjay Kajal</h5>
-                        <p class="card-text">Startup &amp Internship Activity Coordinator</p>
+                        <p class="card-text">Member IIC</p>
                     </div>
                 </div>
 
@@ -430,50 +410,46 @@ include 'include/header.php'; ?>
                     <img src="images/iic/coordinators/nm.png" class="card-img-top" alt="Teacher 9">
                     <div class="card-body">
                         <h5 class="card-title">Dr. Nikhil Marriwala</h5>
-                        <p class="card-text">MSME Coordinator</p>
-                    </div>
-                </div>
-                <div class="card">
-                    <img src="images/iic/coordinators/sa.jpg" class="card-img-top" alt="Teacher 10">
-                    <div class="card-body">
-                        <h5 class="card-title">Dr. Sanjeev Ahuja</h5>
                         <p class="card-text">Member IIC</p>
                     </div>
                 </div>
+           
                 <div class="card">
                     <img src="images/iic/coordinators/teacher-2.png" class="card-img-top" alt="Teacher 2">
                     <div class="card-body">
                         <h5 class="card-title">Mr. Archit Sharma</h5>
-                        <p class="card-text">IPR Activity Coordinator</p>
+                        <p class="card-text">Member IIC</p>
                     </div>
                 </div>
-                <div class="card">
-                    <img src="images/iic/coordinators/DM.JPg" class="card-img-top" alt="DM">
-                    <div class="card-body">
-                        <h5 class="card-title">Dr. Deepak Malik</h5>
-                        <p class="card-text">Innovation Activity Coordinator</p>
-                    </div>
-                </div>
+            
                 <div class="card">
                     <img src="images/iic/coordinators/SS.png" class="card-img-top" alt="Sonia Saini">
                     <div class="card-body">
                         <h5 class="card-title">Ms. Sonia Saini</h5>
-                        <p class="card-text">ARIIA Coordinator</p>
+                        <p class="card-text">Member IIC</p>
                     </div>
                 </div>
                 <div class="card">
                     <img src="images/iic/coordinators/SC.png" class="card-img-top" alt="Shivani">
                     <div class="card-body">
                         <h5 class="card-title">Ms. Shivani</h5>
-                        <p class="card-text">Social Media Coordinator</p>
+                        <p class="card-text">Member IIC</p>
                     </div>
                 </div>
 
                 <div class="card">
-                    <img src="images/iic/coordinators/as.jpg" class="card-img-top" alt="Atul">
+                    <img src="images/iic/coordinators/db.jpg" class="card-img-top" alt="Atul">
                     <div class="card-body">
-                        <h5 class="card-title">Mr. Atul</h5>
-                        <p class="card-text">Web Development Coordinator</p>
+                        <h5 class="card-title">Dr. Divya Bhatia</h5>
+                        <p class="card-text">Member IIC</p>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <img src="images/iic/coordinators/SG.jpeg" class="card-img-top" alt="Atul">
+                    <div class="card-body">
+                        <h5 class="card-title">Ms. SOMYA GOYAL</h5>
+                        <p class="card-text">Member IIC</p>
                     </div>
                 </div>
 
@@ -520,19 +496,19 @@ include 'include/header.php'; ?>
                 <div class="row">
                     <div class="col-sm-6 col-md-3 col-lg-3">
                         <div class="card">
-                            <img src="images/iic/core team/himani.png" alt="Himani Hooda">
+                            <img src="images/iic/core team/tanishq.png" alt="Himani Hooda">
                             <div class="card-body">
-                                <h5>HIMANI HOODA</h5>
-                                <p><strong>TEAM LEAD</strong></p>
+                                <h5>TANISHQ</h5>
+                                <p><strong>Team Lead</strong></p>
                             </div>
                         </div>
                     </div>
                     <div class="col-sm-6 col-md-3 col-lg-3">
                         <div class="card">
-                            <img src="images/iic/core team/ayushraj.png" alt="Ayush Raj">
+                            <img src="images/iic/core team/kanishka.png" alt="Ayush Raj">
                             <div class="card-body">
-                                <h5>AYUSH RAJ</h5>
-                                <p><strong>CO-LEAD</strong></p>
+                                <h5>KANISHKA</h5>
+                                <p><strong>Co-Lead</strong></p>
                             </div>
                         </div>
                     </div>
@@ -541,16 +517,16 @@ include 'include/header.php'; ?>
                             <img src="images/iic/core team/gajender.jpg" alt="Sonu Yadav">
                             <div class="card-body">
                                 <h5>Gajender Yadav</h5>
-                                <p><strong>WEB DEVELOPER</strong></p>
+                                <p><strong>Incubation Head</strong></p>
                             </div>
                         </div>
                     </div>
                     <div class="col-sm-6 col-md-3 col-lg-3">
                         <div class="card">
-                            <img src="images/iic/core team/priyanshu.jpg" alt="Archie Goel">
+                            <img src="images/iic/core team/AMAN.png" alt="Archie Goel">
                             <div class="card-body">
-                                <h5>Priyanshu</h5>
-                                <p><strong>SOCIAL MEDIA</strong></p>
+                                <h5>Aman</h5>
+                                <p><strong>Technology Team Head</strong></p>
                             </div>
                         </div>
                     </div>
@@ -559,28 +535,10 @@ include 'include/header.php'; ?>
                 <div class="row">
                     <div class="col-sm-6 col-md-3 col-lg-3">
                         <div class="card">
-                            <img src="images/iic/core team/umakshi.png" alt="Umakshi">
+                            <img src="images/iic/core team/naman.jpg" alt="Umakshi">
                             <div class="card-body">
-                                <h5>Umakshi</h5>
-                                <p><strong>CONTENT WRITER</strong></p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-sm-6 col-md-3 col-lg-3">
-                        <div class="card">
-                            <img src="images/iic/core team/kanishka.png" alt="Umakshi">
-                            <div class="card-body">
-                                <h5>Kanishka Mittal</h5>
-                                <p><strong>GRAPHICS DESIGNER</strong></p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-sm-6 col-md-3 col-lg-3">
-                        <div class="card">
-                            <img src="images/iic/core team/tanishq.png" alt="Umakshi">
-                            <div class="card-body">
-                                <h5>Tanishq</h5>
-                                <p><strong>CONTENT WRITER</strong></p>
+                                <h5>Naman Saini</h5>
+                                <p><strong>Marketing, Research & Promotions Team Head</strong></p>
                             </div>
                         </div>
                     </div>
@@ -589,12 +547,33 @@ include 'include/header.php'; ?>
                             <img src="images/iic/core team/arjav.png" alt="Umakshi">
                             <div class="card-body">
                                 <h5>Arjav Verma</h5>
-                                <p><strong>PROMOTIONS</strong></p>
+                                <p><strong>Marketing, Research & Promotions Team Head</strong></p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-3 col-lg-3">
+                        <div class="card">
+                            <img src="images/iic/core team/jagriti.jpg" alt="Umakshi">
+                            <div class="card-body">
+                                <h5>Jagriti</h5>
+                                <p><strong>Design & Creative Team Head</strong></p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-3 col-lg-3">
+                        <div class="card">
+                            <img src="images/iic/core team/sahil.JPG" alt="Umakshi">
+                            <div class="card-body">
+                                <h5>Sahil</h5>
+                                <p><strong>Design & Creative Team Head</strong></p>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
         </section>
+
+
+
 
                     <?php include "include/footer.php" ;?>
